@@ -1,0 +1,15 @@
+C:\Users\Thalia-school\Desktop\Code\OOP\LabOne\LabOne\bin\Debug\net7.0\LabOne.exe
+C:\Users\Thalia-school\Desktop\Code\OOP\LabOne\LabOne\bin\Debug\net7.0\LabOne.deps.json
+C:\Users\Thalia-school\Desktop\Code\OOP\LabOne\LabOne\bin\Debug\net7.0\LabOne.runtimeconfig.json
+C:\Users\Thalia-school\Desktop\Code\OOP\LabOne\LabOne\bin\Debug\net7.0\LabOne.dll
+C:\Users\Thalia-school\Desktop\Code\OOP\LabOne\LabOne\bin\Debug\net7.0\LabOne.pdb
+C:\Users\Thalia-school\Desktop\Code\OOP\LabOne\LabOne\obj\Debug\net7.0\LabOne.csproj.AssemblyReference.cache
+C:\Users\Thalia-school\Desktop\Code\OOP\LabOne\LabOne\obj\Debug\net7.0\LabOne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thalia-school\Desktop\Code\OOP\LabOne\LabOne\obj\Debug\net7.0\LabOne.AssemblyInfoInputs.cache
+C:\Users\Thalia-school\Desktop\Code\OOP\LabOne\LabOne\obj\Debug\net7.0\LabOne.AssemblyInfo.cs
+C:\Users\Thalia-school\Desktop\Code\OOP\LabOne\LabOne\obj\Debug\net7.0\LabOne.csproj.CoreCompileInputs.cache
+C:\Users\Thalia-school\Desktop\Code\OOP\LabOne\LabOne\obj\Debug\net7.0\LabOne.dll
+C:\Users\Thalia-school\Desktop\Code\OOP\LabOne\LabOne\obj\Debug\net7.0\refint\LabOne.dll
+C:\Users\Thalia-school\Desktop\Code\OOP\LabOne\LabOne\obj\Debug\net7.0\LabOne.pdb
+C:\Users\Thalia-school\Desktop\Code\OOP\LabOne\LabOne\obj\Debug\net7.0\LabOne.genruntimeconfig.cache
+C:\Users\Thalia-school\Desktop\Code\OOP\LabOne\LabOne\obj\Debug\net7.0\ref\LabOne.dll
